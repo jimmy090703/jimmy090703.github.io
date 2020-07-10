@@ -12,4 +12,7 @@ my aerfaying(scratch) [myaerfaying](https://www.aerfaying.com/Users/1076819)
 <script>
   alert('hello guest!')
 </script>
+<html>
+  <button type="button">Click Me!</button>
+</html>
   
