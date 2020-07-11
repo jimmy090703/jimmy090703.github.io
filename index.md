@@ -14,6 +14,6 @@ my aerfaying(scratch) [myaerfaying](https://www.aerfaying.com/Users/1076819)
   }  
 </script>
 <html>
-  <button type="button">Click Me!</button>
+  <button type="button" onclick="buttonClick()">Click Me!</button>
 </html>
   
