@@ -14,11 +14,14 @@ defaults:
     values:
       image: true
 
-title: Minimalism
-name: minimalism
-description: Minimalism is a jekyll theme for minimalist
+title: jimmy090703's page
+name: jimmy090703
+description: 欢喜编程的小学生~(￣▽￣)~*
+url: https://jimmy090703.github.io
+copyright_time: 2020
 
-github: https://github.com/showzeng/Minimalism
+github: https://github.com/jimmy090703
+email: mailto:jimmyzhangshuning@outlook.com
 rss: true
 
 plugins:
