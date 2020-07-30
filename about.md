@@ -1,6 +1,6 @@
 ---
 layout: about
-title: 关于
+title: "关于"
 date: 2020-07-30 12:35:00 +0800
 ---
 ### jimmy090703
