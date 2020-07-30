@@ -26,6 +26,9 @@ github: https://github.com/jimmy090703
 email: mailto:jimmyzhangshuning@outlook.com
 rss: true
 
+site_statistics: true
+baidu_id: c4aa11055f1ab17e3191bc251cdf75ca
+
 plugins:
   - rouge
   - kramdown
