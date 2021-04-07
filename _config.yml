@@ -17,17 +17,17 @@ defaults:
 title: jimmy090703 Blog
 name: jimmy090703
 description: 走自己的路，让别人说去吧
-url: https://jimmy090703.github.io
-copyright_time: 2020
-avatar: https://jimmy090703.github.io/assets/img/avatar.png
-favicon: https://jimmy090703.github.io/assets/img/favicon.ico
+url: https://jimmy090703.gitee.io
+copyright_time: 2021
+avatar: https://jimmy090703.gitee.io/assets/img/avatar.png
+favicon: https://jimmy090703.gitee.io/assets/img/favicon.ico
 
 github: https://github.com/jimmy090703
 email: mailto:jimmyzhangshuning@outlook.com
 rss: true
 
 site_statistics: true
-baidu_id: c4aa11055f1ab17e3191bc251cdf75ca
+baidu_id: 7b9842791b53e908a29a8cd1078d694a
 
 plugins:
   - rouge
