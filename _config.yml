@@ -14,15 +14,15 @@ defaults:
     values:
       image: true
 
-title: jimmy090703 Blog
-name: jimmy090703
+title: JimWL Blog
+name: JimWL
 description: 走自己的路，让别人说去吧
-url: https://jimmy090703.gitee.io
+url: https://jJimWL.github.io
 copyright_time: 2021
-avatar: https://jimmy090703.gitee.io/assets/img/avatar.png
-favicon: https://jimmy090703.gitee.io/assets/img/favicon.ico
+avatar: https://jimmy090703.github.io/assets/img/avatar.png
+favicon: https://jimmy090703.github.io/assets/img/favicon.ico
 
-github: https://github.com/jimmy090703
+github: https://github.com/JimWL
 email: mailto:jimmyzhangshuning@outlook.com
 rss: true
 
